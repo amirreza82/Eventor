@@ -76,10 +76,5 @@ This system is compatible with:
 
 ---
 
-## 📖 License
-
-MIT © 2025 – Your Name
-
----
 
 > ⚠️ This project is for educational and demonstration purposes. It mimics aspects of real-world event-driven systems without full production guarantees.
